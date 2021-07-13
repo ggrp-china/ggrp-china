@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 * [GGRP](https://github.com/ggrp-china/ggrp-china/blob/main/README.md) / 男 / 1999  
 * 学校：哈尔滨工程大学  
 ## 校内项目
-* 开发校内平台[腐败街](https://fubaijie.cn/)  
 * 开发校内移动端二手交易平台[小螺号](https://www.xiaoluohao.top/index)  
+* 开发校内平台[腐败街](https://fubaijie.cn/)  
 ## 技能清单
 * 常用语言：`Python` `JavaScript`
 * 常用框架：`Django` `VUE`
