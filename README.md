@@ -17,13 +17,16 @@ Here are some ideas to get you started:
  
 ## 关于我
 * [GGRP](https://github.com/ggrp-china/ggrp-china/blob/main/README.md) / 男 / 1999  
-* 学校：哈尔滨工程大学  
+* 学校：哈尔滨工程大学
+* 实习：字节跳动
 ## 校内项目
 * 开发校内移动端二手交易平台
-* 开发校内平台**街
+* 开发校内平台腐败街
 ## 技能清单
-* 常用语言：`Python` `JavaScript`
-* 常用框架：`Django` `VUE`
+* 开发语言：`Python` `Golang` `JavaScript` `Shell`
+* 开发框架：`Gin` `React` `Django` `VUE`
+* 数据库/存储 `MySQL` `MongoDB` `Redis` `Minio`
+* 大数据相关 `Hadoop` `Zookeeper` `Flume` `Kafka`  `Kubernetes` `Docker`
   
   
  
